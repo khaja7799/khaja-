@@ -1,0 +1,11 @@
+a=[19,19,7,8,15,5,3,5,5,2]
+b=a.count(19)
+if(b<=2):
+    print(True)
+else:
+    print(False)
+c=a.count(5)
+if(c>=3):
+    print(True)
+else:
+    print(False)
